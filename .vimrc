@@ -81,7 +81,8 @@ syntax on
 " show line number
 set nu
 set nobackup
-setlocal noswapfile
+"setlocal noswapfile
+set noswapfile
 set bufhidden=hide
 set tabstop=4
 set expandtab
@@ -92,6 +93,8 @@ set softtabstop=4
 set shiftwidth=4
 
 set history=100
+" ignore case sensitivity
+set ignorecase
 
 if (has("gui_running"))
   set guifont=Bitstream\ Vera\ Sans\ Mono\ 10
