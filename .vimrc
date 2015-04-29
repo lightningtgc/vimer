@@ -5,6 +5,7 @@
 " At first install bundle by the following terminal code:
 " git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
+" For Bundle
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
@@ -65,6 +66,7 @@ Plugin 'terryma/vim-multiple-cursors'
 Plugin 'Shougo/neocomplete.vim'
 Plugin 'tpope/vim-commentary'
 Plugin 'lambdalisue/vim-fullscreen'
+Plugin 'heavenshell/vim-jsdoc'
 
 
 " Map keys
