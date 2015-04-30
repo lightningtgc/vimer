@@ -67,6 +67,7 @@ Plugin 'Shougo/neocomplete.vim'
 Plugin 'tpope/vim-commentary'
 Plugin 'lambdalisue/vim-fullscreen'
 Plugin 'heavenshell/vim-jsdoc'
+Plugin 'Raimondi/delimitMate'
 
 
 " Map keys
