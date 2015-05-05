@@ -1,6 +1,3 @@
-" Using neocomplete.vim require MacVim with if\_lua
-" Detail on: https://github.com/Shougo/neocomplete.vim
-
 " Using bundle to mange plugins
 " At first install bundle by the following terminal code:
 " git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
