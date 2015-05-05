@@ -4,7 +4,7 @@
 
 ## Getting start
 
-  1. Beause we want to use the plugin: [neocomplete](https://github.com/Shougo/neocomplete.vim) (More fast).
+  1.Beause we want to use the plugin: [neocomplete](https://github.com/Shougo/neocomplete.vim) (More fast).
 
   We should install [MacVim with if\_lua](https://github.com/zhaocai/macvim),
 
@@ -22,7 +22,7 @@ Then install macvim with lua
 brew install macvim --with-cscope --with-lua --HEAD
 ```
 
-  2. Using bundle to mange plugins
+  2.Using bundle to mange plugins
   
     Install bundle by the following terminal code:
 
