@@ -28,5 +28,5 @@ brew install macvim --with-cscope --with-lua --HEAD
 
     (Require to [install git](http://git-scm.com/download/) )
 ```
-    git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
