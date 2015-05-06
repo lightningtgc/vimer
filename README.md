@@ -10,12 +10,12 @@
 
   and you can install it with [homebrew](http://brew.sh/),
   
-  If you don't install homebrew on mac, you can paste that at Terminal:
+  If you don't install `Homebrew` on mac, you can paste that at Terminal:
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-Then install macvim with lua
+Then install `Macvim with lua`:
 ```
 // Install macvim with lua by using homebrew
 
