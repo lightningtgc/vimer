@@ -17,16 +17,12 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 Then install `Macvim with lua`:
 ```
-// Install macvim with lua by using homebrew
-
 brew install macvim --with-cscope --with-lua --HEAD
 ```
 
   2.Using Bundle to mange plugins
   
-    Install Bundle by the following terminal code:
-
-    (Require to [install Git](http://git-scm.com/download/) )
+  Install Bundle with [Git](http://git-scm.com/download/) by the following terminal code:
 ```
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
