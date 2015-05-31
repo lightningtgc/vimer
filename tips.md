@@ -13,3 +13,19 @@ Install :
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+## Use Terminal
+
+Using some terminal command:
+```
+:! somecommand
+
+# like 
+:! cd ../
+
+```
+
+Using the whole terminal:
+```
+:! bash
+```
